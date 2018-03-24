@@ -1,0 +1,1 @@
+the (?P<ZoneKeyword>.*) (light|lights|volume|alarm)
